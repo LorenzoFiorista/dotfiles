@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lorenzo.fiorista@gmail.com
+	name = Lorenzo Fiorista
